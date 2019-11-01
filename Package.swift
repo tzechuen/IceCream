@@ -21,5 +21,5 @@ let package = Package(
             path: ".", 
             sources: ["IceCream"])
     ],
-    swiftLanguageVersions: [.v5])
+    swiftLanguageVersions: [.v5]
 )
