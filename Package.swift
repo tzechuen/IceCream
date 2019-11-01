@@ -20,5 +20,6 @@ let package = Package(
             dependencies: ["RealmSwift", "Realm"],
             path: ".", 
             sources: ["IceCream"])
-    ]
+    ],
+    swiftLanguageVersions: [.v5])
 )
